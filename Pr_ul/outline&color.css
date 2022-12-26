@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+ul.colored{
+  background:rgb(17, 208, 93);
+  outline: 1px solid black;
+}
+
+ul.colored li{
+  background-color: rgb(42, 13, 88);outline: 1px solid black;
+
+}
+
+ul.colored li h1{
+  background-color: rgb(167, 18, 33);outline: 1px solid black;
+}
+
+ul.colored li p{
+  background-color: rgba(239, 242, 18, 0.878);
+  outline: 1px solid rgb(140, 144, 142);
+}
